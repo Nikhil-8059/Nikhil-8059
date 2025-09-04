@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-8059&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-8059" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m into **Web Development**
 
 - 📫 How to reach me **nikhilgautam1601@gmail.com**
 
